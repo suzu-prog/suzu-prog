@@ -1,6 +1,6 @@
-![](https://user-images.githubusercontent.com/60243840/87071245-e8fa9880-c254-11ea-8248-07e70bf6f62d.jpg)
+![](https://user-images.githubusercontent.com/60243840/89093469-b24c1400-d3f5-11ea-8308-215e49cce148.png)
 
-[![](https://github-readme-stats.vercel.app/api?username=suzu-prog&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=suzu-prog&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there 👋,  Everyone calls me Suzu.
 CTO(Director) at FUNEE inc, based in Japan. manage Fashion & Technology business.
