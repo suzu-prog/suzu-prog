@@ -2,7 +2,8 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=suzu-prog&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi there 👋,  Everyone calls me Suzu.
+## 👋Hi there 
+Everyone calls me Suzu.
 CTO(Director) at FUNEE inc, based in Japan. manage Fashion & Technology business.
 
 I am a very human resources management and love devops / SRE!
