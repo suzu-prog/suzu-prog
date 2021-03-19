@@ -10,5 +10,6 @@
   <img alt="suzu-prog | Twitter" width="28px" src="https://raw.githubusercontent.com/suzu-prog/suzu-prog/3b5af40d26008042e50f34de62e63e1db0f4d898/assets/twitter.svg" />
 </a>
 
-  [![](https://github-readme-stats.vercel.app/api?username=suzu-prog&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=suzu-prog&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
