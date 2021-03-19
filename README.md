@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/60243840/89093469-b24c1400-d3f5-11ea-8308-215e49cce148.png)
 
 <div align="center">
-  <h3>Hi there👋</h3>
+  <h3>THi there👋</h3>
   <p>Everyone calls me Suzu.</p>
   <p>CTO(Director) at FUNEE inc, based in Japan.</p>
   <p>manage Fashion & Technology business.</p>
